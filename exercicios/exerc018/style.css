@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Parkinsans:wght@300..800&display=swap');
+
+@font-face {
+    font-family: "love" ;
+    src: url("fontes/love story ttf.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+h1{
+font: lighter normal 2em "love","sans-serif"; 
+}
+p{
+    font: 300 1em "", "sans-serif";
+}
